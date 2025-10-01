@@ -1,0 +1,1 @@
+2025-10-01 19:36:05,818 [ERROR] \u274c Error initializing client: HTTPSConnectionPool(host='testnet.binance.vision', port=443): Max retries exceeded with url: /api/v3/ping (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000002DF7C686CF0>: Failed to resolve 'testnet.binance.vision' ([Errno 11001] getaddrinfo failed)"))
